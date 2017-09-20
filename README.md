@@ -6,3 +6,4 @@ Hello world!
 
 - line for merge (Krut)
 - line for merge (Radulov)
+- line for merge and revert (Radulov)
