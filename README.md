@@ -7,3 +7,5 @@ Hello world!
 - line for merge x2 (Krut)
 - line for merge (Radulov)
 - line for merge and revert (Radulov)
+- line for merge (Silver)
+
