@@ -5,3 +5,4 @@ Hello world!
 - shum.dozhdia@gmail.com - Silveistruk Yevhenii be here
 
 - line for merge (Krut)
+- line for merge (Radulov)
