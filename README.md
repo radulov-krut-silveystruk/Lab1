@@ -4,6 +4,6 @@ Hello world!
 - pan.terra37@gmail.com - Vladyslav Krut be here
 - shum.dozhdia@gmail.com - Silveistruk Yevhenii be here
 
-- line for merge (Krut)
+- line for merge x2 (Krut)
 - line for merge (Radulov)
 - line for merge and revert (Radulov)
